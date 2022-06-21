@@ -10,7 +10,7 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Preview of react-photo-wall" src="./preview.gif" />
+  <img alt="Preview of google-docs-clone" src="./preview.gif" />
 </p>
 
 > A Google Docs Clone, made with React, Quill, MongoDB, and Sockect.IO, featuring persistent storage, autosaves, and unique document IDs.
